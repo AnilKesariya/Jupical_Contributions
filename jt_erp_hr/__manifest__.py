@@ -21,7 +21,7 @@
 #
 ##############################################################################
 {
-    'name': 'Hr Apps Addon',
+    'name': 'ERP HR Addon',
     'summary': 'Install HR modules package in single click',
     'version': '12.0.0.1.0',
     'author': 'Jupical Technologies Pvt. Ltd.',

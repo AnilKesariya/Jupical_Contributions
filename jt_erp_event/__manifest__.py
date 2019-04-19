@@ -21,7 +21,7 @@
 #
 ##############################################################################
 {
-    'name': 'Bussiness Apps Addon',
+    'name': 'ERP Event Addon',
     'summary': 'Install event modules package in single click',
     'version': '12.0.0.1.0',
     'author': 'Jupical Technologies Pvt. Ltd.',
