@@ -23,7 +23,7 @@
 {
     'name': 'Amount In Word',
     'summary': 'Application to display amount in word and print in report',
-    'version': '12.0.0.1.0',
+    'version': '11.0.0.1.0',
     'category': 'sale',
     'author':'Jupical Technologies Pvt. Ltd.',
     'maintainer': 'Jupical Technologies Pvt. Ltd.',

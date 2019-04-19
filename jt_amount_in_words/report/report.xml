@@ -6,7 +6,7 @@
             <xpath expr="//div[@class='page']/p/span" position="before">
                 <div style="font-size:16px; padding-bottom:15px;">
                     <tr class="border-black">
-                        <td><strong>Amount In Word : </strong></td>
+                        <td><strong>Amount In Words : </strong></td>
                         <td><span t-field="doc.num_word"/></td>
                     </tr>
                 </div>
@@ -18,7 +18,7 @@
             <xpath expr="//div[@class='page']/p" position="before">
                 <div style="font-size:16px; padding-bottom:15px;">
                     <tr class="border-black">
-                        <td><strong>Amount In Word : </strong></td>
+                        <td><strong>Amount In Words : </strong></td>
                         <td><span t-field="o.num_word"/></td>
                     </tr>
                 </div>
@@ -30,7 +30,7 @@
             <xpath expr="//div[@class='page']/p" position="before">
                 <div style="font-size:16px; padding-bottom:30px;">
                     <tr class="border-black">
-                        <td><strong>Amount In Word : </strong></td>
+                        <td><strong>Amount In Words : </strong></td>
                         <td><span t-field="o.num_word"/></td>
                     </tr>
                 </div>

@@ -11,7 +11,7 @@
                     <group colspan="2" attrs="{'invisible': [('amount_total', '&lt;=', 0)]}">
                         <div class="oe_subtotal_footer_separator oe_inline o_td_label" style="font-size:15px;">
                             <label for="num_word" style="margin-right: 8px;font-size:15px;"/>
-                            <field name="num_word" string="Amount In Word"/>
+                            <field name="num_word" string="Amount In Words"/>
                         </div>
                     </group>
                 </xpath>
@@ -28,7 +28,7 @@
                     <group colspan="2"  attrs="{'invisible': [('amount_total', '&lt;=', 0)]}">
                         <div class="oe_subtotal_footer_separator oe_inline o_td_label" style="font-size:15px;">
                             <label for="num_word" style="margin-right: 8px;font-size:15px;"/>
-                            <field name="num_word" string="Amount In Word"/>
+                            <field name="num_word" string="Amount In Words"/>
                         </div>
                     </group>   
                 </xpath>
@@ -45,7 +45,7 @@
                     <group colspan="2"  attrs="{'invisible': [('amount_total', '&lt;=', 0)]}">
                         <div class="oe_subtotal_footer_separator oe_inline o_td_label" style="font-size:15px; text-align:right;">
                             <label for="num_word" style="margin-right: 8px;font-size:15px;"/>
-                            <field name="num_word" string="Amount In Word"/>
+                            <field name="num_word" string="Amount In Words"/>
                         </div>
                     </group>   
                 </xpath>
@@ -62,7 +62,7 @@
                     <group colspan="2"  attrs="{'invisible': [('amount_total', '&lt;=', 0)]}">
                         <div class="oe_subtotal_footer_separator oe_inline o_td_label" style="font-size:15px; text-align:right;">
                             <label for="num_word" style="margin-right: 8px;font-size:15px;"/>
-                            <field name="num_word" string="Amount In Word"/>
+                            <field name="num_word" string="Amount In Words"/>
                         </div>
                     </group>   
                 </xpath>
