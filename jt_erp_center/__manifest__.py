@@ -21,7 +21,7 @@
 #
 ##############################################################################
 {
-    'name': 'Bussiness Apps Addon',
+    'name': 'ERP Center Addon',
     'summary': 'Install Standard ERP module package in single click',
     'version': '11.0.0.1.0',
     'author': 'Jupical Technologies Pvt. Ltd.',
