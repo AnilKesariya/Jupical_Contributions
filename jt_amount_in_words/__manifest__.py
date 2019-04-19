@@ -22,7 +22,7 @@
 ##############################################################################
 {
     'name': 'Amount In Word',
-    'summary': 'Application to display amount in word and print in report',
+    'summary': 'This module will help you to convert your amount in word in view and report',
     'version': '11.0.0.1.0',
     'category': 'sale',
     'author':'Jupical Technologies Pvt. Ltd.',

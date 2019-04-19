@@ -22,7 +22,7 @@
 ##############################################################################
 {
     'name': 'Hr Apps Addon',
-    'summary': 'Install all bussiness applications in one click',
+    'summary': 'Install HR modules package in single click',
     'version': '11.0.0.1.0',
     'author': 'Jupical Technologies Pvt. Ltd.',
     'maintainer': 'Jupical Technologies Pvt. Ltd.',
