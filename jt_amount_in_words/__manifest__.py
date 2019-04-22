@@ -35,4 +35,5 @@
         'views/amount_word_view.xml'
     ],
     'application': True,
+    'images': ['static/description/poster_image.png'],
 }

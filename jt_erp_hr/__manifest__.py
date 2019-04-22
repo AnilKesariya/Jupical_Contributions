@@ -35,4 +35,5 @@
                 ],
     'data': [],
     'application': False,
+    'images': ['static/description/poster_image.png'],
 }
