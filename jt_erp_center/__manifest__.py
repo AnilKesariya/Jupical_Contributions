@@ -31,4 +31,5 @@
     'depends': ['sale_management','purchase','crm','stock','mrp'],
     'data': [],
     'application': False,
+    'images': ['static/description/poster_image.png'],
 }
