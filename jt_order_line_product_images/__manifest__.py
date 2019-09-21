@@ -37,4 +37,5 @@
         'views/invoice_order_line_images.xml',
         'views/stock_order_line_images.xml',
     ],
+   'images':['static/description/poster_image.png'],
 }
