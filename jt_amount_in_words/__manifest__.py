@@ -36,4 +36,6 @@
     ],
     'application': True,
     'images': ['static/description/poster_image.png'],
+    "price": 20.00,
+    "currency": "USD",
 }
